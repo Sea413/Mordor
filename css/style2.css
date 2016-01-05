@@ -1,0 +1,19 @@
+body {
+    background-color: #FF69B4;
+    color: #f0fff0;
+    font-family: cursive;
+}
+h1{
+  font-weight: bold;
+  color: #ff1493;
+  text-align: center;
+}
+h2{
+  font-weight:lighter;
+  color: #ff1493;
+  text-align: center;
+}
+li{
+  text-shadow;
+  font-size: 10px;
+}
