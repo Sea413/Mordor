@@ -1,17 +1,12 @@
-body {
-    background-color: #FF69B4;
-    color: #f0fff0;
-    font-family: cursive;
+body {background-color: #000000;
+color: #ffffff
 }
-h1{
-  font-weight: bold;
-  color: #ff1493;
-  text-align: center;
+h1 {color:#B22222;
+  font-weight: bolder;
+  font-family: fantasy;
 }
-h2{
-  font-weight:lighter;
-  color: #ff1493;
-  text-align: center;
+h2 {color:#B22222;
+  font-family: fantasy;
 }
-
+p {font-family: sans-serif;}
 li {font-size: 38px;}
